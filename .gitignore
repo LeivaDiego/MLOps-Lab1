@@ -170,7 +170,4 @@ marimo/_lsp/
 __marimo__/
 
 # Streamlit
-.streamlit/secrets.toml
-
-# Power BI
-.pbix
+.streamlit/secrets.tomls
